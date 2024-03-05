@@ -1,0 +1,3 @@
+Difference between C and Cpp
+C is a procedural oriented language and its emphasis is on functions. 
+Besides being a procedural language, C++ is also an Object Oriented Programming language, which is based on the concept of diving a program into objects.

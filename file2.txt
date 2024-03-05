@@ -1,0 +1,3 @@
+Cpp language
+Cpp is a cross-platform language that can be used to create high-performance applications. 
+Cpp was developed by Bjarne Stroustrup, as an extension to the C
